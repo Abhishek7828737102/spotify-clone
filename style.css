@@ -1,0 +1,43 @@
+
+body{
+    background-color: rgba(5, 0, 0, 0.957);
+    margin: 0;
+    padding: 0;
+}
+i{
+    color: white;
+    font-size: 2vw;
+    margin-right: 5px;
+}
+.navbar{
+    display: flex;
+    margin: 14px;
+}
+#input_box{
+    background-color: rgba(245, 239, 239, 0);
+    color: white;
+    font-size: 100%;
+    padding: 8px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    padding-right: 100px;
+    border: none;
+    
+}
+.fullybox{
+     background-color: rgba(245, 239, 239, 0.064);
+    color: white;
+    font-size: 100%;
+    padding: 8px;
+    border-radius: 20px;
+    padding-right: 100px;
+    border: none;
+    margin-bottom: 2vw;
+
+}
+.fullybox:hover{
+    border: 2px solid rgb(255, 255, 255);
+}
+#brwicon{
+    left: 500px;
+}
