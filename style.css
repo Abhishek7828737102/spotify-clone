@@ -1,3 +1,4 @@
+                                                                /* Navbar */
 
 body{
     background-color: rgba(5, 0, 0, 0.957);
@@ -11,7 +12,8 @@ i{
 }
 .navbar{
     display: flex;
-    margin: 14px;
+    justify-content: space-evenly;
+    margin-top: 1vw;
 }
 #input_box{
     background-color: rgba(245, 239, 239, 0);
@@ -22,7 +24,6 @@ i{
     border-radius: 20px;
     padding-right: 100px;
     border: none;
-    
 }
 .fullybox{
      background-color: rgba(245, 239, 239, 0.064);
@@ -38,6 +39,32 @@ i{
 .fullybox:hover{
     border: 2px solid rgb(255, 255, 255);
 }
-#brwicon{
-    left: 500px;
+#brw_icon{
+    position: relative;
+    left: 7vw;
+}
+.links{
+    color: #bdb8b8;
+}
+.ins{
+    color: #bdb8b8;
+}
+button{
+    color:hsl(0, 100%, 1%);
+    height: 3.5vw;
+    width: 7vw;
+    border-radius: 50%;
+    border: none;
+    font-size: larger;
+    font-weight: 800;
+}
+                                                        /* box */
+
+.left{
+    width: 25vw;
+    border: 2px solid whitesmoke;
+}
+.right{
+    width: 75vw;
+    border: 2px solid rgb(254, 5, 5);
 }
