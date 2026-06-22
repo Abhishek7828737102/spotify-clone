@@ -5,8 +5,11 @@
     justify-content: center;
 }
 .item-center{
-    justify-items: center;
+    align-items: center;
 }
 .container{
     color: white;
+}
+.right{
+    margin: 10px;
 }

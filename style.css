@@ -49,7 +49,7 @@ i{
 .ins{
     color: #bdb8b8;
 }
-button{
+#login_btn{
     color:hsl(0, 100%, 1%);
     height: 3.5vw;
     width: 7vw;
@@ -67,4 +67,10 @@ button{
 .right{
     width: 75vw;
     border: 2px solid rgb(254, 5, 5);
+}
+#playlistbtn{
+    padding: 0.5vw;
+    border: none;
+    border-radius: 12px;
+    font-weight: 700;
 }
