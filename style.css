@@ -62,7 +62,8 @@ i{
 
 .left{
     width: 25vw;
-    border: 2px solid whitesmoke;
+    margin: 8px;
+    padding: 10px;
 }
 .right{
     width: 75vw;
@@ -74,6 +75,6 @@ i{
     border-radius: 12px;
     font-weight: 700;
 }
-.llibr{
+.libr{
     display: flex;
 }

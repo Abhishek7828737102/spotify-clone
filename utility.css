@@ -14,8 +14,11 @@
     margin: 10px;
 }
 .rounded{
-    border-radius: 7px;
+    border-radius: 15px;
 }
 .bg_grey{
     background-color:#121212;;
+}
+.bg_darkgrey{
+    background-color: #1f1f1f;
 }
