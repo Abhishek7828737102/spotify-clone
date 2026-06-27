@@ -13,3 +13,9 @@
 .right{
     margin: 10px;
 }
+.rounded{
+    border-radius: 7px;
+}
+.bg_grey{
+    background-color:#121212;;
+}
