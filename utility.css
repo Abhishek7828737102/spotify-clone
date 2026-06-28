@@ -17,8 +17,20 @@
     border-radius: 15px;
 }
 .bg_grey{
-    background-color:#121212;;
+    background-color:#121212;
 }
 .bg_darkgrey{
     background-color: #1f1f1f;
+}
+#playlistbtn{
+    padding: 0.5vw;
+    border: none;
+    border-radius: 12px;
+    font-weight: 700;
+}
+.padding{
+    padding: 8px;
+}
+.margin{
+    margin: 15px;
 }

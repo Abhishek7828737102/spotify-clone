@@ -61,20 +61,53 @@ i{
                                                         /* box */
 
 .left{
-    width: 25vw;
+    width: 24vw;
     margin: 8px;
     padding: 10px;
+    height: 75vh;
 }
 .right{
     width: 75vw;
     border: 2px solid rgb(254, 5, 5);
 }
-#playlistbtn{
-    padding: 0.5vw;
-    border: none;
-    border-radius: 12px;
-    font-weight: 700;
-}
 .libr{
     display: flex;
+}
+#plus{
+    font-size: medium;
+    margin-left: 120px;
+    margin-top: 20px;
+    padding-top: 6px;
+    border-radius: 50vw;    
+    background-color: #1f1f1f;
+    color: #bdb8b8;
+}
+.crt_playlist{
+    padding: 10px;
+    height: 27vh;
+    overflow-y: auto;
+}
+a{
+    padding: 15px;
+    color: #b3b3b3;
+    text-decoration-line: none;
+    font-size: 14px;
+}
+.intro{
+    padding-top: 25px;
+    padding-left: 8px;
+}
+.fa-globe{
+    color: black;
+    font-size:15px;
+}
+.lang{
+    width: 100px;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 20px;
+    border: none;
+    padding: 5px;
+    margin: 22px;
+
 }
