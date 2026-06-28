@@ -10,7 +10,7 @@
 .container{
     color: white;
 }
-.right{
+.songs-container{
     margin: 10px;
 }
 .rounded{
@@ -32,5 +32,5 @@
     padding: 8px;
 }
 .margin{
-    margin: 15px;
+    margin-bottom: 30px;
 }
