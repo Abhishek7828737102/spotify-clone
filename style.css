@@ -115,5 +115,13 @@ a{
     width: 75vw;
     height: 80vh;
     padding: 15px;
-
 }                  
+.cards_container{
+    display: flex;
+    gap: 15px;
+}
+.card{
+    width: 14vw;
+    height: 40vh;
+    background-color: rgb(84, 229, 11);
+}
