@@ -120,8 +120,11 @@ a{
     display: flex;
     gap: 15px;
 }
-.card{
-    width: 14vw;
-    height: 40vh;
-    background-color: rgb(84, 229, 11);
+.cards_container .card{
+    font-size: 30px;
+}
+.card img{
+    width: 100%;
+    object-fit: contain;
+    border-radius: 10px;
 }
