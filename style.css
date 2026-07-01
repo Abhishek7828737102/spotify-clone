@@ -120,11 +120,6 @@ a{
     display: flex;
     gap: 15px;
 }
-.cards_container .card{
-    font-size: 30px;
-}
-.card img{
-    width: 100%;
-    object-fit: contain;
-    border-radius: 10px;
+.left{
+    flex-shrink: 0;
 }
